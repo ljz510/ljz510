@@ -17,4 +17,11 @@ Educación:
 
 Pasatiempos: ["Lectura", "Deportes"]
 ```
+Algunas herramientas que estoy utilizando y aprendiendo 
+
+<h2> Algunas herramientas que utilizo y sobre las que estoy aprendiendo </h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45" />
+</p>
+
 
