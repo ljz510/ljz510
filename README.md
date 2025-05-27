@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=483AA0&text=¡Hola%20a%20todos!&descAlign=49&descAlignY=48&section=header&reversal=true&fontAlignY=57&textBg=false&fontColor=E3D095&animation=scaleIn&strokeWidth=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=107&color=000957&text=¡Hola%20a%20todos!&descAlign=49&descAlignY=48&section=header&reversal=false&fontAlignY=57&textBg=false&fontColor=FFF7D1&animation=scaleIn&strokeWidth=0"/>
 </p>
 
-<h2> Algunas de mis redes </h2>
+<h2> Mis redes </h2>
 
 <a href="www.linkedin.com/in/lfabianjimenez" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100"/>
@@ -25,9 +25,9 @@ Educación:
 
 Pasatiempos: ["Lectura", "Deportes"]
 ```
-Algunas herramientas que estoy utilizando y aprendiendo 
 
-<h2> Algunas herramientas que utilizo y sobre las que estoy aprendiendo </h2>
+
+<h2> 👨‍💻 Algunas herramientas que utilizo y sobre las que estoy aprendiendo </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="45" height="45"/>
