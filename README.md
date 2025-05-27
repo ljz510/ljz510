@@ -5,7 +5,9 @@
 
 <h2> Algunas de mis redes </h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="50" height="50"/>(www.linkedin.com/in/lfabianjimenez
+<a href="www.linkedin.com/in/lfabianjimenez" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="50" height="50"/>
+</a>
 
 
 
