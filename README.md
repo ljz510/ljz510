@@ -6,7 +6,7 @@
 <h2> Algunas de mis redes </h2>
 
 <a href="www.linkedin.com/in/lfabianjimenez" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="70" height="70"/>
 </a>
 
 
