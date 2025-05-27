@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=107&color=000957&text=¡Hola%20a%20todos!&descAlign=49&descAlignY=48&section=header&reversal=false&fontAlignY=57&textBg=false&fontColor=FFF7D1&animation=scaleIn&strokeWidth=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=107&color=4E6688&text=¡Hola%20a%20todos!&descAlign=49&descAlignY=48&section=header&reversal=false&fontAlignY=57&textBg=false&fontColor=FFF7D1&animation=scaleIn&strokeWidth=0"/>
 </p>
 
 <h2> Mis redes </h2>
