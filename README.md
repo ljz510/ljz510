@@ -11,7 +11,7 @@
 
 
 
-<h2>:man_raising_hand: Un poco de mi y sobre mis intereses </h2>
+<h2>🙋‍♂️ Un poco de mi y sobre mis intereses </h2>
 
 ```yaml
 Nombre: Lautaro Jimenez
